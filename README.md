@@ -29,7 +29,7 @@ Before running the app, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/TahaHasan21/QuizApp.git
 cd quiz-app
 ```
 
